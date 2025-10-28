@@ -1,0 +1,9 @@
+﻿id_produto (PK);nome_produto;categoria;preco_unitario
+101;Notebook X;Eletrônicos;3500.00
+102;Smartphone Y;Eletrônicos;1800.00
+103;Mouse Gamer;Acessórios;150.00
+104;Teclado Mecânico;Acessórios;300.00
+105;"Monitor 27""";Eletrônicos;1200.00
+106;Cadeira Office;Móveis;800.00
+107;Mesa Ergonômica;Móveis;1500.00
+108;Webcam HD;Acessórios;120.00

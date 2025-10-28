@@ -1,0 +1,7 @@
+﻿id_cliente (PK);nome_cliente;email;cidade;estado
+1;Ana Silva;ana@email.com;São Paulo;SP
+2;Bruno Costa;bruno@email.com;Rio de Janeiro;RJ
+3;Carla Dantas;carla@email.com;São Paulo;SP
+4;Daniel Lima;daniel@email.com;Belo Horizonte;MG
+5;Helena Souza;helena@email.com;São Paulo;SP
+6;Igor Mendes;igor@email.com;Curitiba;PR
